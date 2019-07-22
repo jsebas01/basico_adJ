@@ -50,6 +50,15 @@ Sugerimos las claves generadas con programas especializados como **apg**.
 Tenga en cuenta que si su clave llega a ser descubierta por un tercero, 
 él/ella podría actuar a nombre suyo.
 
+"Como funciona apg > Automatic Password Generator"
+
+Es un comando capaz de generar contraseñas tan seguras que para descifrarlas se tomarian miles de años, esto ya que cuenta con tres elementos basicos.
+
+1.Maneja un algoritmo para generar contraseñas pronunciables e inpronunciables.
+2.Las contraseñas se generan por una serie de simbolos definidos por el usuario ya sean digitos,letras y simbolos especiales.
+3.Cuenta con un generador de numeros pseudo aleatorios.
+
+
 **chfn**
 
 : Le permite cambiar datos personales y el intérprete de ordenes que desea 
