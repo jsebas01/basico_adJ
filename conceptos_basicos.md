@@ -58,6 +58,11 @@ Es un comando capaz de generar contraseñas tan seguras que para descifrarlas se
 2.Las contraseñas se generan por una serie de simbolos definidos por el usuario ya sean digitos,letras y simbolos especiales.
 3.Cuenta con un generador de numeros pseudo aleatorios.
 
+Apg ya viene por defecto instalado en adj asi que no es necesario descargarlo, su forma de usar seria simplemente escribiendo en la consola apg y oprimiendo enter, esto nos arrojaria algo como:
+pifemros, karbocat.Al ejecutar el comando se generaran por defecto 6 claves diferentes, sin embargo si queremos dar nuestros propios paramentros lo podemos realizar de la siguiente manera:
+
+apg -n 3 -m 10  -x 12 -a 1 esto nos dara 3 contraseñas con una longitud minima de 10 caracteres, maxima de 12 y ademas van a ser inpronunciables.
+
 
 **chfn**
 
